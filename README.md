@@ -1,9 +1,9 @@
-# AU mod consepts
-My collection of mod consepts for Among us.<br/>
+# AU mod concepts
+My collection of mod concepts for Among us.<br/>
 Post issues for submitting new ideas.
 ## Rules for submission
 If your submission is already in the list, it will be closed.
-### New consepts
+### New concepts
 This catagory includes incorperating third-party software directly into among us to bypass the need for it.<br/>
 There aren't any rules for this catagory.
 ### New roles
